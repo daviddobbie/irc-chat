@@ -1,12 +1,3 @@
-// This program is copyright VUW.
-// You are granted permission to use it to construct your answer to a COMP112 assignment.
-// You may not distribute it in any other way without permission.
-/* Code for COMP 112 Assignment
- * Name: David Dobbie
- * Usercode: dobbiedavi
- * ID: 300340161
- */
-
 import ecs100.*;
 import java.util.*;
 import java.io.*;
